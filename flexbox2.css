@@ -1,0 +1,53 @@
+.z{
+    background-color: aliceblue;
+    width: 650px;
+    padding: 30px;
+    margin: 30px 100px;
+}
+.zz{
+    width: 650px;
+    display: flex;
+    justify-content: space-between;
+}
+.zzz{
+    align-content: start;
+}
+.zzzz{
+    margin-top: 3px;
+    align-content: end;
+}
+div{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: center;
+    gap: 10px;
+}
+.a img{
+    border-radius: 50%;
+}
+
+.b img{
+    border-radius: 50%;
+}
+.c img{
+    border-radius: 50%;
+}
+.d img{
+    border-radius: 50%;
+}
+.dd{
+    display: inline-block;
+}
+.e img{
+    border-radius: 50%;
+}
+.f img{
+    border-radius: 50%;
+}
+.g img{
+    border-radius: 50%;
+}
+.h img{
+    border-radius: 50%;
+}
